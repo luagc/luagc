@@ -6,6 +6,6 @@ I currently have no way you can contact me.
 
 ## What I currently work with
 
-![x]([https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp.c,python,lua,luau,asm,git,github,visualstudio,visualstudiocode](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,c,python,lua,luau,asm,git,github,visualstudio,vscode))
+![x](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp.c,python,lua,luau,asm,git,github,visualstudio,visualstudiocode)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luagc)
